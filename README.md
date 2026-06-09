@@ -73,3 +73,20 @@ This project helped strengthen my understanding of Python programming fundamenta
 * Add edit and remove item functionality
 * Generate printable invoices or receipts
 * Build a graphical user interface
+
+## Screenshots
+
+### Main Menu
+![Main Menu](Main%20menu.png)
+
+### Item Menu
+![Item Menu](Item%20menu.png)
+
+### Booking Created
+![Booking Created](Booking%20created.png)
+
+### Order Search
+![Order Search](Order%20search.png)
+
+### Revenue Summary
+![Revenue Summary](Revenue%20summary.png)
