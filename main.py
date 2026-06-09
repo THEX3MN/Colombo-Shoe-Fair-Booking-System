@@ -1,8 +1,5 @@
 # -------------------------------------------------------------
 # Colombo Shoe Fair Online Booking System
-# Author: [Your Name]
-# Purpose: To simulate an online booking system using in-memory
-#          data structures and algorithms (no file or DB storage).
 # -------------------------------------------------------------
 
 # Dictionary to store available items (Item Code: [Item Name, Unit Price])
